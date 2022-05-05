@@ -1,0 +1,8 @@
+# Project exclude paths
+/Solitare/.gradle/
+/Solitare/core/build/
+/Solitare/core/build/classes/java/main/
+/Solitare/desktop/build/
+/Solitare/desktop/build/classes/java/main/
+/Solitare/html/build/
+/Solitare/html/build/classes/java/main/
